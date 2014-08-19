@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dcraftcore",
+  "name": "DCraft Core",
+  "description": "Currently just dusakus' playground",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dusakus"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
